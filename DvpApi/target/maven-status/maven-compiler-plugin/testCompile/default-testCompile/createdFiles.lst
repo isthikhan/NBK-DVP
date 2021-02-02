@@ -1,0 +1,5 @@
+com\DVP\resources\placeresource.class
+comDVP\utilities\Utili.class
+com\DVP\stepDefinitions\placevalidations.class
+com\DVP\testdataBuild\TestDataBuild.class
+com\DVP\testRunner\cucumberRunner.class
